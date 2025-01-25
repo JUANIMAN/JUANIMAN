@@ -5,12 +5,8 @@
 <h3 align="center">Egresado de la carrera de Ingeniería en computación</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JUANIMAN&label=Profile%20Views&icon=5&pretty=false" />
+  <img src="https://komarev.com/ghpvc/?username=JUANIMAN&label=Profile+Views&color=brightgreen&style=flat" alt="tuusuario" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JUANIMAN&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
 
 <h3 align="center">📱Lenguajes de programación:</h3>
 
@@ -143,6 +139,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JUANIMAN&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=JUANIMAN&theme=default" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JUANIMAN&show_icons=false&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JUANIMAN&show_icons=false&theme=default" />
   </picture>
 </p>
 
